@@ -1,0 +1,210 @@
+/*  uk stuff */
+
+.tomato {color:tomato}
+
+.uk-offcanvas-bar {
+    background-color: rgba(255, 255, 255, 85%); color:black;
+    
+}
+ul.uk-nav.uk-nav-default > li > a{
+  font-size:1.4rem;
+  line-height:1.5;
+  color:tomato;
+  
+}
+ul.uk-nav.uk-nav-default > li > a:hover{
+  font-size:1.4rem;
+  line-height:1.5;
+  color:#0FA0CE;
+  text-decoration: underline;
+  outline-width: 0;
+}
+body {
+    max-width: 960px;
+    font-family: Andale Mono, AndaleMono, monospace;
+    /*background-image: url("resources/img/2023-10-28-SchauRaum_Mariecke_RUTH-68.jpg");
+    background-size: 100%;*/
+
+}
+ul li {
+    list-style-type: none;
+    display: inline;
+    padding-right: 1.2rem
+}
+a {
+    text-decoration: none;
+    color: tomato
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: courier, fixed, monospace
+}
+
+footer {
+    color: gray;
+}
+
+
+/* ab hier aus bkd.css übernommen */
+
+
+/* ########## FLEXBOX */
+.flex-container {
+    display: flex;
+    flex-basis: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    margin: 0 0 0 0;
+    padding: 0;
+    width: 100%;
+}
+.flexbox {
+    display: flex;
+    flex-flow: row wrap;
+}
+/* columns */
+
+
+
+
+
+dl {
+    margin: 0;
+    padding: 0;
+}
+
+
+dt {
+    font-weight: 600;
+    margin-bottom: 0.3em;
+}
+
+dd + dt {
+    margin-top: 0.5em;
+}
+.centered {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.left {
+    text-align: left;
+}
+.justify {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+/* fine-tuning */
+.up-25 {
+    margin-top: -25px;
+}
+
+.up-50 {
+    margin-top: -50px;
+}
+
+.up-75 {
+    margin-top: -75px;
+}
+
+.up-100 {
+    margin-top: -100px;
+}
+
+.down-25,
+.before-25 {
+    margin-top: 25px;
+}
+
+.down-50,
+.before-50 {
+    margin-top: 50px;
+}
+
+.down-75,
+.before-75 {
+    margin-top: 75px;
+}
+
+.down-100,
+.before-100 {
+    margin-top: 100px;
+}
+
+.after-25 {
+    margin-bottom: 25px;
+}
+
+.after-50 {
+    margin-bottom: 50px;
+}
+
+.after-75 {
+    margin-bottom: 75px;
+}
+
+.after-100 {
+    margin-bottom: 100px;
+}
+
+.pull-25 {
+    margin-bottom: -25px;
+}
+
+.pull-50 {
+    margin-bottom: -50px;
+}
+
+.pull-75 {
+    margin-bottom: -75px;
+}
+
+.pull-100 {
+    margin-bottom: -100px;
+}
+
+.even-left {
+    margin-left: 0;
+}
+
+.even-right {
+    margin-right: 0;
+}
+
+.line-height-one {
+    line-height: 1;
+}
+
+.line-height-one-two-five {
+    line-height: 1.25;
+}
+
+.line-height-one-five {
+    line-height: 1.5;
+}
+
+.line-height-two {
+    line-height: 2;
+}
+
+.no-margins {
+    margin: 0;
+}
+.medium {
+    font-size: 0.9rem;
+}
+.small {
+    font-size: 0.8rem;
+}
+.x-small {
+    font-size: 0.7rem;
+}
