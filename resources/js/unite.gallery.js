@@ -38,7 +38,7 @@ jQuery(document).ready(function () {
     gallery_theme: "tilesgrid",
     gallery_width:"100%",	//gallery width
     gallery_min_width: 150,	//gallery minimal width when resizing
-    gallery_background_color: "tomato",	//set custom background color. If not set it will be taken /from css.
+    gallery_background_color: "white",	//set custom background color. If not set it will be taken /from css.
     theme_gallery_padding: 0,	//padding from sides of the gallery
     grid_padding:20,		//set padding to the grid
        tile_width: 120,		//tile width
