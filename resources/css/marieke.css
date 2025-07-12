@@ -1,3 +1,9 @@
+/* Farbeinstellungen */
+:root {
+/*background-color: tomato;*/
+--primary:      tomato;
+}
+
 /*  uk stuff */
 
 .tomato {color:tomato}
