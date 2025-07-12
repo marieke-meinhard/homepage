@@ -1,12 +1,11 @@
 /* Farbeinstellungen */
 :root {
-/*background-color: tomato;*/
 --primary:      tomato;
 }
 
 /*  uk stuff */
 
-.tomato {color:tomato}
+.tomato {color: var(--primary)}
 
 .uk-offcanvas-bar {
     background-color: rgba(255, 255, 255, 85%); color:black;
@@ -15,7 +14,7 @@
 ul.uk-nav.uk-nav-default > li > a{
   font-size:1.4rem;
   line-height:1.5;
-  color:tomato;
+  color:var(--primary);
   
 }
 ul.uk-nav.uk-nav-default > li > a:hover{
@@ -39,7 +38,7 @@ ul li {
 }
 a {
     text-decoration: none;
-    color: tomato
+    color: var(--primary);
 }
 h1,
 h2,
