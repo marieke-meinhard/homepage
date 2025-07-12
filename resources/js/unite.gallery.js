@@ -1,6 +1,6 @@
 jQuery(document).ready(function () {
     
-    jQuery("#researchdata").unitegallery({
+    jQuery("#tiles").unitegallery({
         tile_border_color: "#7a7a7a",
         tile_outline_color: "#8B8B8B",
         tile_enable_shadow: false,
@@ -34,7 +34,7 @@ jQuery(document).ready(function () {
         thumb_height: 88
         /*thumb_fixed_size:true //true,false - fixed/dynamic thumbnail width*/
     });
-    jQuery("#gallerie").unitegallery({
+    jQuery("#gallerie1").unitegallery({
         gallery_theme: "tilesgrid",
         gallery_width: "100%", //gallery width
         gallery_min_width: 150, //gallery minimal width when resizing
