@@ -6,7 +6,7 @@ jQuery(document).ready(function () {
         tile_enable_shadow: false,
         tile_shadow_color: "#8B8B8B",
         tile_overlay_opacity: 0.5,
-        tile_show_link_icon: true,
+        tile_show_link_icon: false,
         tile_image_effect_type: "sepia",
         tile_image_effect_reverse: true,
         tile_enable_textpanel: true,
@@ -35,16 +35,16 @@ jQuery(document).ready(function () {
         /*thumb_fixed_size:true //true,false - fixed/dynamic thumbnail width*/
     });
     jQuery("#gallerie").unitegallery({
-    gallery_theme: "tilesgrid",
-    gallery_width:"100%",	//gallery width
-    gallery_min_width: 150,	//gallery minimal width when resizing
-    gallery_background_color: "white",	//set custom background color. If not set it will be taken /from css.
-    theme_gallery_padding: 0,	//padding from sides of the gallery
-    grid_padding:20,		//set padding to the grid
-       tile_width: 120,		//tile width
-       tile_height: 120,		//tile height
-       grid_num_rows:10,	//maximum number of grid rows. If set to big value, the navigation will not appear.
-       tile_show_link_icon:true,
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
         tile_enable_textpanel: true,
         tile_textpanel_title_text_align: "center",
         theme_navigation_type: "bullets",
@@ -54,16 +54,16 @@ jQuery(document).ready(function () {
         bullets_space_between: 12 //space between bullets
     });
     jQuery("#gallerie2").unitegallery({
-    gallery_theme: "tilesgrid",
-    gallery_width:"100%",	//gallery width
-    gallery_min_width: 150,	//gallery minimal width when resizing
-    gallery_background_color: "white",	//set custom background color. If not set it will be taken /from css.
-    theme_gallery_padding: 0,	//padding from sides of the gallery
-    grid_padding:20,		//set padding to the grid
-       tile_width: 120,		//tile width
-       tile_height: 120,		//tile height
-       grid_num_rows:10,	//maximum number of grid rows. If set to big value, the navigation will not appear.
-       tile_show_link_icon:true,
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
         tile_enable_textpanel: true,
         tile_textpanel_title_text_align: "center",
         theme_navigation_type: "bullets",
