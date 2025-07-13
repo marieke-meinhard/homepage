@@ -72,4 +72,137 @@ jQuery(document).ready(function () {
         theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
         bullets_space_between: 12 //space between bullets
     });
+    jQuery("#gallerie3").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
+    jQuery("#gallerie4").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
+    jQuery("#gallerie5").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
+    jQuery("#gallerie6").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
+    jQuery("#gallerie7").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
+    jQuery("#gallerie8").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
+    jQuery("#gallerie9").unitegallery({
+        gallery_theme: "tilesgrid",
+        gallery_width: "100%", //gallery width
+        gallery_min_width: 150, //gallery minimal width when resizing
+        gallery_background_color: "white", //set custom background color. If not set it will be taken /from css.
+        theme_gallery_padding: 0, //padding from sides of the gallery
+        grid_padding: 20, //set padding to the grid
+        tile_width: 120, //tile width
+        tile_height: 120, //tile height
+        grid_num_rows: 10, //maximum number of grid rows. If set to big value, the navigation will not appear.
+        tile_show_link_icon: false,
+        tile_enable_textpanel: true,
+        tile_textpanel_title_text_align: "center",
+        theme_navigation_type: "bullets",
+        theme_bullets_margin_top: 20, //the space to bullets
+        theme_bullets_margin_bottom: 20, //the space to bullets
+        theme_bullets_color: "gray", //gray, blue, brown, green, red - color of the bullets
+        bullets_space_between: 12 //space between bullets
+    });
 });
